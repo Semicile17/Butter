@@ -3,7 +3,6 @@
 
 <h1 align="center">🧈 Butter – A Social Networking App</h1>
 
-![Demo App](/mobile/assets/images/screenshot-for-readme.png)
 
 **Butter** is a full-stack social networking mobile application built with **React Native**.
 It focuses on smooth interactions, clean design, and modern mobile-first UX while running seamlessly on both Android and iOS.
